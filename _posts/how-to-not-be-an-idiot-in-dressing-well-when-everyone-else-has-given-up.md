@@ -1,6 +1,6 @@
 ---
 title: "Dressing Well in 2024: A Guide"
-excerpt: "Why looking good is still important in a world of sweatpants and virtual meetings."
+excerpt: "Why looking good is still important."
 coverImage: "/images/posts/dressing-well-in-2024-guide.png"
 date: "2024-06-06T17:36:17.7531949+10:00"
 author:
