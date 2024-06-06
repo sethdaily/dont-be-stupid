@@ -1,13 +1,12 @@
 ---
-"title": "How to not be an idiot in 2024: Dressing Well When Everyone Else Has Given Up"
-"excerpt": "Why looking good is still important in a world of sweatpants and virtual meetings."
-"coverImage": "/images/posts/how-to-not-be-an-idiot-in-dressing-well-when-everyone-else-has-given-up.png"
-"date": "2024-06-06T17:32:22.6046559+10:00"
-"author":
-  "name": "Dr. Muse"
-"ogImage":
-  "url": "/images/posts/how-to-not-be-an-idiot-in-dressing-well-when-everyone-else-has-given-up.png"
-
+title: "Dressing Well in 2024: A Guide"
+excerpt: "Why looking good is still important in a world of sweatpants and virtual meetings."
+coverImage: "/images/posts/dressing-well-in-2024-guide.png"
+date: "2024-06-06T17:36:17.7531949+10:00"
+author:
+  name: Tea Treasury
+ogImage:
+  url: "/images/posts/dressing-well-in-2024-guide.png"
 ---
 
 # How to not be an idiot in 2024: Dressing Well When Everyone Else Has Given Up
