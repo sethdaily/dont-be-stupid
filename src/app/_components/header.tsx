@@ -6,7 +6,6 @@ const Header = () => {
       <Link href="/" className="hover:underline">
         how not to be an idiot
       </Link>
-      .
     </h2>
   );
 };
