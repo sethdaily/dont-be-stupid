@@ -1,5 +1,5 @@
 ---
-"title": "How to not be an idiot in 2024: Social Media Detoxification"
+"title": "Social Media Detoxification"
 "excerpt": "Learn how to reclaim your sanity by detoxifying your social media life."
 "coverImage": "/images/posts/how-to-not-be-an-idiot-in-social-media-detoxification.png"
 "date": "2024-06-07T10:20:42.5206765+10:00"
