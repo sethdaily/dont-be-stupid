@@ -5,6 +5,7 @@
 "date": "2024-05-22T15:33:35.3931598+10:00"
 "author":
   "name": "Dr. Muse"
+  "picture": "/assets/blog/authors/dr-muse.png"
 "ogImage":
   "url": "/images/posts/how-to-not-be-an-idiot-in-mastering-the-art-of-conversation.png"
 
