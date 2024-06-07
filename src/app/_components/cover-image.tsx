@@ -16,8 +16,9 @@ const CoverImage = ({ title, src, slug }: Props) => {
       className={cn("shadow-sm w-full", {
         "hover:shadow-lg transition-shadow duration-200": slug,
       })}
-      width={800}
-      height={400}
+      layout="responsive" // This makes the image responsive
+      width={800} // Adjust these dimensions as needed
+      height={400} // Adjust these dimensions as needed
     />
   );
   return (
