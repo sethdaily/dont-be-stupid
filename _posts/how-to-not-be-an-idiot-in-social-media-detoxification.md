@@ -5,6 +5,7 @@
 "date": "2024-06-07T10:20:42.5206765+10:00"
 "author":
   "name": "Dr. Muse"
+  "picture": "/assets/blog/authors/dr-muse.png"
 "ogImage":
   "url": "/images/posts/how-to-not-be-an-idiot-in-social-media-detoxification.png"
 

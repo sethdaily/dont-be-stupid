@@ -5,6 +5,7 @@
 "date": "2024-06-07T10:31:52.1713416+10:00"
 "author":
   "name": "Dr. Muse"
+  "picture": "/assets/blog/authors/dr-muse.png"
 "ogImage":
   "url": "/images/posts/how-to-not-be-an-idiot-in-navigating-modern-dating-like-an-adult.png"
 
