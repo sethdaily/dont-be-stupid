@@ -5,6 +5,7 @@ coverImage: "/images/posts/dressing-well-in-2024-guide.png"
 date: "2024-05-29T17:36:17.7531949+10:00"
 author:
   name: Dr. Muse
+  "picture": "/assets/blog/authors/dr-muse.png"
 ogImage:
   url: "/images/posts/dressing-well-in-2024-guide.png"
 ---
