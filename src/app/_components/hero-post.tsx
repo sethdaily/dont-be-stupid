@@ -1,37 +1,47 @@
-import cn from "classnames";
+import Avatar from "@/app/_components/avatar";
+import CoverImage from "@/app/_components/cover-image";
+import { type Author } from "@/interfaces/author";
 import Link from "next/link";
-import Image from "next/image";
+import DateFormatter from "./date-formatter";
 
 type Props = {
   title: string;
-  src: string;
-  slug?: string;
+  coverImage: string;
+  date: string;
+  excerpt: string;
+  author: Author;
+  slug: string;
 };
 
-const CoverImage = ({ title, src, slug }: Props) => {
-  const image = (
-    <Image
-      src={src}
-      alt={`Cover Image for ${title}`}
-      className={cn("shadow-sm w-full", {
-        "hover:shadow-lg transition-shadow duration-200": slug,
-      })}
-      layout="responsive" // This makes the image responsive
-      width={800} // Adjust these dimensions as needed
-      height={400} // Adjust these dimensions as needed
-    />
-  );
+export function HeroPost({
+  title,
+  coverImage,
+  date,
+  excerpt,
+  author,
+  slug,
+}: Props) {
   return (
-    <div className="sm:mx-0">
-      {slug ? (
-        <Link href={`/posts/${slug}`} aria-label={title}>
-          {image}
-        </Link>
-      ) : (
-        image
-      )}
-    </div>
+    <section>
+      <div className="mb-8 md:mb-16">
+        <CoverImage title={title} src={coverImage} slug={slug} className="max-w-screen-lg mx-auto" />
+      </div>
+      <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
+        <div>
+          <h3 className="mb-4 text-4xl lg:text-5xl leading-tight">
+            <Link href={`/posts/${slug}`} className="hover:underline">
+              {title}
+            </Link>
+          </h3>
+          <div className="mb-4 md:mb-0 text-lg">
+            <DateFormatter dateString={date} />
+          </div>
+        </div>
+        <div>
+          <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+          <Avatar name={author.name} picture={author.picture} />
+        </div>
+      </div>
+    </section>
   );
-};
-
-export default CoverImage;
+}
