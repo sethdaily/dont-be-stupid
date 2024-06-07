@@ -9,7 +9,7 @@ ogImage:
   url: "/images/posts/dressing-well-in-2024-guide.png"
 ---
 
-# How to not be an idiot in 2024: Dressing Well When Everyone Else Has Given Up
+# Dressing Well When Everyone Else Has Given Up
 
 Let's get real for a second—you look around and what do you see? A world in sweatpants and hoodies, as people meander through life looking like they've just rolled out of bed for the fifth day in a row. Congratulations, you've found yourself in 2024. The decline in sartorial standards is almost tragic. And yet, here you are, wanting to know how not to be an idiot in this post-pandemic era. Great start. Today, we tackle the often neglected, yet crucial topic: Dressing Well When Everyone Else Has Given Up.
 

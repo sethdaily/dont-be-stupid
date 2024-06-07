@@ -1,5 +1,5 @@
 ---
-"title": "How to not be an idiot in 2024: Navigating Modern Dating like an Adult"
+"title": "Navigating Modern Dating like an Adult"
 "excerpt": "Feeling lost in the dating scene? It's time to grow up and learn how to navigate modern dating like a responsible adult."
 "coverImage": "/images/posts/how-to-not-be-an-idiot-in-navigating-modern-dating-like-an-adult.png"
 "date": "2024-06-07T10:31:52.1713416+10:00"

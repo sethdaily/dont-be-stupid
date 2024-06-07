@@ -1,5 +1,5 @@
 ---
-"title": "How to not be an idiot in 2024: Owning Up to Your Mistakes"
+"title": "Owning Up to Your Mistakes"
 "excerpt": "Accountability isn't flashy, but it's the backbone of being a respectable human. Learn why owning up to your mistakes makes you less of an idiot in 2024."
 "coverImage": "/images/posts/how-to-not-be-an-idiot-in-owning-up-to-your-mistakes.png"
 "date": "2024-06-06T17:51:17.2011421+10:00"

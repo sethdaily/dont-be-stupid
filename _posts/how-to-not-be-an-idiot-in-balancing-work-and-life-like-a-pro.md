@@ -1,5 +1,5 @@
 ---
-"title": "How to not be an idiot in 2024: Balancing Work and Life like a Pro"
+"title": "Balancing Work and Life like a Pro"
 "excerpt": "Tired of being a workaholic or slacker? Learn how to strike that perfect work-life balance!"
 "coverImage": "/images/posts/how-to-not-be-an-idiot-in-balancing-work-and-life-like-a-pro.png"
 "date": "2024-06-07T10:29:26.9961782+10:00"
