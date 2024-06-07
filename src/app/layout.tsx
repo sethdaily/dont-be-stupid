@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: `How not to be an idiot in 2024`,
-  description: `A weekly guide written with ${CMS_NAME}.`,
+  description: `A weekly guide on how to be a better person.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
