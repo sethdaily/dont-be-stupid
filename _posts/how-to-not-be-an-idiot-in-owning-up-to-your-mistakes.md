@@ -5,6 +5,7 @@
 "date": "2024-06-06T17:51:17.2011421+10:00"
 "author":
   "name": "Dr. Muse"
+  "picture": "/assets/blog/authors/dr-muse.png"
 "ogImage":
   "url": "/images/posts/how-to-not-be-an-idiot-in-owning-up-to-your-mistakes.png"
 
