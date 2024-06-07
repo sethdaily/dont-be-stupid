@@ -5,6 +5,7 @@
 "date": "2024-06-07T17:59:43.8205863+10:00"
 "author":
   "name": "Dr. Muse"
+  "picture": "/assets/blog/authors/dr-muse.png"
 "ogImage":
   "url": "/images/posts/why-you-need-to-quit-multitasking.png"
 
