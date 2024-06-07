@@ -1,5 +1,5 @@
 ---
-"title": "How to not be an idiot in 2024: The Art of Conversation"
+"title": "The Art of Conversation"
 "excerpt": "In today's world, meaningful conversations are becoming a rarity. Learn how not to be an idiot by mastering the art of conversation in 2024."
 "coverImage": "/images/posts/how-to-not-be-an-idiot-in-mastering-the-art-of-conversation.png"
 "date": "2024-05-22T15:33:35.3931598+10:00"
