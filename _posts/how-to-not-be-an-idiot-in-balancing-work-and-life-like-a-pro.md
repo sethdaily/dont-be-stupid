@@ -5,6 +5,7 @@
 "date": "2024-06-07T10:29:26.9961782+10:00"
 "author":
   "name": "Dr. Muse"
+  "picture": xxx
 "ogImage":
   "url": "/images/posts/how-to-not-be-an-idiot-in-balancing-work-and-life-like-a-pro.png"
 
