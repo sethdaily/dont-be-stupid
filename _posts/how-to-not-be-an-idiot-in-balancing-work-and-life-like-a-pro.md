@@ -1,5 +1,3 @@
-Today's date is 2024-06-07T10:29:26.9955032+10:00.
-
 ---
 "title": "How to not be an idiot in 2024: Balancing Work and Life like a Pro"
 "excerpt": "Tired of being a workaholic or slacker? Learn how to strike that perfect work-life balance!"
