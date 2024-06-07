@@ -1,5 +1,4 @@
 import Container from "@/app/_components/container";
-import { EXAMPLE_PATH } from "@/lib/constants";
 import cn from "classnames";
 
 type Props = {
@@ -16,7 +15,7 @@ const Alert = ({ preview }: Props) => {
     >
       <Container>
         <div className="py-2 text-center text-sm">
-          {preview ? (
+          {preview && (
             <>
               This page is a preview.{" "}
               <a
